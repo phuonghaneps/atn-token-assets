@@ -1,1 +1,17 @@
+{
+  "name": "Anthony AI",
+  "symbol": "ATN",
+  "type": "BEP20",
+  "decimals": 18,
+  "description": "Anthony AI (ATN) is a utility token for AI-driven learning tools and the PHUONGHAN ecosystem (education, chatbot, and apps). Fixed max supply 2,000,000 ATN with long-term LP lock for transparency.",
+  "website": "https://atncrypto.com",
+  "explorer": "https://bscscan.com/token/0xb5C84953983931dd2C10C9b04a4379eE52697193",
+  "status": "active",
+  "id": "0xb5C84953983931dd2C10C9b04a4379eE52697193",
+  "links": [
+    { "name": "twitter", "url": "https://x.com/Token_ATN" },
+    { "name": "telegram", "url": "https://t.me/Anthonyai_ATN" },
+    { "name": "github", "url": "https://github.com/phuonghaneps" }
+  ]
+}
 
