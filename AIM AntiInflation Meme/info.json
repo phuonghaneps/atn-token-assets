@@ -1,0 +1,21 @@
+{
+  "name": "AIM AntiInflation Meme",
+  "symbol": "AIM",
+  "type": "BEP20",
+  "decimals": 18,
+  "description": "AIM is a trader-friendly meme token on BNB Smart Chain designed with auto-LP and burn mechanisms to combat inflation.",
+  "website": "https://atncrypto.com/aim",
+  "explorer": "https://bscscan.com/token/0x845d9814A5ceeCD291737c54f4d1ddc3B8E4c89C",
+  "status": "active",
+  "id": "0x845d9814A5ceeCD291737c54f4d1ddc3B8E4c89C",
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/Token_ATN"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/yourtelegram"
+    }
+  ]
+}
