@@ -10,8 +10,17 @@
 ## Compiler (as verified on BscScan)
 - Solidity **0.8.19**, Optimization **Yes (200 runs)**, EVM **paris**.
 
+## Contracts
+- `contracts/Token_deployed.sol` — the **exact** source code verified on BscScan and currently running on-chain.
+
 ## Notes
-- A few scanners may suggest pinning compiler version or using `external` for gas.
-  Those are **non-security** recommendations. This repo mirrors the **exact** code on-chain.
+- Some scanners may suggest pinning the compiler version or using `external` for gas optimization.  
+  These are **non-security** recommendations. This repository mirrors the on-chain code byte-for-byte.
 - For safety, when changing spend allowances, set `approve(spender, 0)` before setting a new value.
 
+## License
+- Source code is released under the **MIT License** (see `LICENSE`).
+
+## Brand / Logo Usage
+- The **Anthony AI (ATN)** name and logos are **All Rights Reserved**.  
+  They may be used for factual reference and linking only. Commercial use or modification requires prior written permission.
